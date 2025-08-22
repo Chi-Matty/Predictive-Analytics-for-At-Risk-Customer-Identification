@@ -1,7 +1,7 @@
-# Predictive Analytics for At-Risk Customer Identification
+# Customer Churn Prediction using Machine Learning
 
 ## Objective:
-Develop a machine learning model to predict customer churn by selecting an appropriate algorithm, training and validating the model, and defining evaluation metrics to assess its performance. The goal is to generate actionable insights that help the business identify at-risk customers and inform strategies for customer retention.
+Developed a machine learning model to predict customer churn by selecting suitable algorithms, training and validating the model, and defining evaluation metrics for performance assessment. The project demonstrates how data-driven churn prediction can support proactive business decisions and reduce customer loss.
 
 ## Project Summary:
 This project involved end-to-end predictive analytics for customer churn at Lloyds. It uses demographic and behavioral data to predict at-risk customers. 
