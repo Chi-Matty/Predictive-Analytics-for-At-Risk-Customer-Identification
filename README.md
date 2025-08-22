@@ -4,7 +4,7 @@
 Developed a machine learning model to predict customer churn by selecting suitable algorithms, training and validating the model, and defining evaluation metrics for performance assessment. The project demonstrates how data-driven churn prediction can support proactive business decisions and reduce customer loss.
 
 ## Project Summary:
-This project involved end-to-end predictive analytics for customer churn at Lloyds. It uses demographic and behavioral data to predict at-risk customers. 
+This project involved end-to-end machine learning for customer churn prediction. It uses demographic and behavioral data to predict customers likely to churn.
 
 #### Tasks included:
 - Data collection
@@ -13,7 +13,7 @@ This project involved end-to-end predictive analytics for customer churn at Lloy
 - Data integration
 - Exploratory data analysis to understand customer behavior.
 
-Random Forest classifier was used to predict churn risk based on demographic and behavioral features, with model performance evaluated using accuracy, precision, recall, F1-score, and precision-recall curves. Threshold calibration was also applied to accurately identify churners while minimizing misclassification of loyal customers, providing insights to support informed business decisions on customer retention strategies.
+A Random Forest classifier was used to predict churn based on demographic and behavioral features. Model performance was evaluated using accuracy, precision, recall, F1-score, and precision-recall curves. Threshold calibration was applied to accurately identify churners while minimizing misclassification of loyal customers, providing actionable insights to support proactive business decisions.
 
 ### Demographics, Spending and Correlation Insight:
 - High-income customers dominate the customer base (35%), suggesting that revenue is concentrated among fewer, wealthier individuals. Marketing or retention strategies aimed at this segment could disproportionately affect overall revenue.
