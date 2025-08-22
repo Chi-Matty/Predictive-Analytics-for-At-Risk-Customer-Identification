@@ -33,4 +33,7 @@ Random Forest classifier was used to predict churn risk based on demographic and
 
 - Churn risk is higher among customers with lower transaction frequency, fewer product categories purchased, and unresolved interactions, as these behavioral factors are associated with decreased spending and engagement
 
+## Tools and Technologies
+    Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
 
